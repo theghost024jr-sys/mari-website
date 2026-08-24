@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420" fill="none">
+  <g stroke="#8aa5b8" stroke-width="1.25" opacity=".34">
+    <path d="m54 76 53-31 53 31v61l-53 31-53-31V76Zm106 0 53-31 53 31v61l-53 31-53-31V76Zm318 0 53-31 53 31v61l-53 31-53-31V76ZM1 229l53-31 53 31v61l-53 31-53-31v-61Zm106 0 53-31 53 31v61l-53 31-53-31v-61Zm318 0 53-31 53 31v61l-53 31-53-31v-61Zm106 0 53-31 53 31v61l-53 31-53-31v-61Z"/>
+    <path d="m266 137 53 31 53-31M213 290l53 31 53-31 53 31 53-31M107 45V0m424 45V0M54 321v61m530-61v61"/>
+  </g>
+  <g fill="#b7cad7" opacity=".52">
+    <circle cx="54" cy="76" r="4"/><circle cx="107" cy="45" r="4"/><circle cx="160" cy="76" r="4"/><circle cx="213" cy="45" r="4"/><circle cx="266" cy="76" r="4"/><circle cx="319" cy="168" r="4"/><circle cx="372" cy="137" r="4"/><circle cx="478" cy="76" r="4"/><circle cx="531" cy="45" r="4"/><circle cx="584" cy="76" r="4"/><circle cx="54" cy="198" r="4"/><circle cx="107" cy="229" r="4"/><circle cx="160" cy="198" r="4"/><circle cx="213" cy="229" r="4"/><circle cx="266" cy="321" r="4"/><circle cx="319" cy="290" r="4"/><circle cx="372" cy="321" r="4"/><circle cx="425" cy="290" r="4"/><circle cx="478" cy="321" r="4"/><circle cx="531" cy="290" r="4"/><circle cx="584" cy="321" r="4"/>
+  </g>
+</svg>
